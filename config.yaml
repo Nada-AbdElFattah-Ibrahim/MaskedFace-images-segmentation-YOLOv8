@@ -1,0 +1,6 @@
+train: C:/Users/nada/OneDrive/Desktop/masked_detection_usingyolov8/unmasked face segmentation/dataset_singleclass/train/images
+val: C:/Users/nada/OneDrive/Desktop/masked_detection_usingyolov8/unmasked face segmentation/dataset_singleclass/valid/images
+test: C:/Users/nada/OneDrive/Desktop/masked_detection_usingyolov8/unmasked face segmentation/dataset_singleclass/test/images
+
+nc: 1
+names: ['uncovered region']
